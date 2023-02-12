@@ -1,12 +1,12 @@
 # 02 Space Shooter
 
-Context and date
+## Context and date
 
-Released at 2/12/2023 3:05AM
+Made for BL-MSCH-C220, Released at 2/12/2023 3:05AM
 
 ## Description
 
-A Space SHMUP where you have to constantly kill enemies to raise your remaining time!
+A Space SHMUP where you have to constantly kill enemies to raise your remaining time! Move with Arrow Keys, Shoot with Z, and Slow Down with LShift!
 
 ## Implementation
 
