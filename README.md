@@ -20,7 +20,7 @@ The Hyperspace typeface was developed by [Pixel Sagas](https://www.dafont.com/hy
 
 ## References
 
-I mention Hollow Knight's Primal Aspid in the code for an enemy to sharing a similar shot pattern
+None
 
 ## Future Development
 
